@@ -18,7 +18,7 @@ module.exports = function (app) {
         var userPhoto = userData.photo;
         var totalDifference = 0;
 
-        for (var i = 0; i < friends.length; i++) {
+        for (var i = 0; i < friends.length -1; i++) {
             console.log(friends[i].name);
             totalDifference = 0;
 
