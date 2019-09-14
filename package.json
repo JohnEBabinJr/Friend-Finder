@@ -19,8 +19,9 @@
   },
   "homepage": "https://github.com/RyanOliverSotto/FriendFinder#readme",
   "dependencies": {
+    "body-parse": "^0.1.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.1",
     "path": "^0.12.7"
   }
 }

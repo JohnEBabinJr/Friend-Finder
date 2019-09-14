@@ -1,51 +1,51 @@
 var friends = [
 	
 	{
-		name: "Benjamin Browder",
-		photo: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		name: "Tauren",
+		photo: "https://gamepedia.cursecdn.com/wowpedia/thumb/5/54/Glowei_Baine_Bloodhoof.jpg/800px-Glowei_Baine_Bloodhoof.jpg",
 		scores: [
 			"5",
-			"1",
-			"4",
 			"3",
-			"1",
+			"5",
+			"5",
 			"5",
 			"1",
-			"4",
-			"3",
+			"5",
+			"5",
+			"5",
 			"1"
 		]
 	},
 	{
-		name: "Vladamir VanDamme",
-		photo: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		name: "Orc",
+		photo: "https://wow.gamepedia.com/Orc#/media/File:Katoka_Dreadblade.jpg",
 		scores: [
 			"3",
-			"1",
 			"5",
-			"4",
-			"1",
+			"5",
+			"5",
+			"5",
+			"3",
 			"5",
 			"1",
-			"1",
-			"5",
-			"3"
+			"3",
+			"5"
 		]
 	},
 	{
-		name: "Brian Eastman",
-		photo: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+		name: "Human",
+		photo: "https://gamepedia.cursecdn.com/wowpedia/a/a7/Rally_the_Troops_TCG.jpg",
 		score: [
-			"3",
 			"1",
-			"4",
 			"1",
-			"4",
-			"3",
-			"5",
+			"1",
+			"1",
 			"1",
 			"5",
-			"4"		
+			"1",
+			"1",
+			"1",
+			"3"		
 		]
 	}
 ];
