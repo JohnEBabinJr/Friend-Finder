@@ -18,7 +18,7 @@ var friends = [
 	},
 	{
 		name: "Orc",
-		photo: "https://wow.gamepedia.com/Orc#/media/File:Katoka_Dreadblade.jpg",
+		photo: "https://wowwiki.fandom.com/wiki/Orc?file=3D-Orc.png",
 		scores: [
 			"3",
 			"5",
@@ -34,7 +34,7 @@ var friends = [
 	},
 	{
 		name: "Human",
-		photo: "https://gamepedia.cursecdn.com/wowpedia/a/a7/Rally_the_Troops_TCG.jpg",
+		photo: "https://gamepedia.cursecdn.com/wowpedia/thumb/6/62/Human_rogue.jpg/300px-Human_rogue.jpg?version=75308409e0e74aec2e35ff3a3b4589de",
 		score: [
 			"1",
 			"1",
