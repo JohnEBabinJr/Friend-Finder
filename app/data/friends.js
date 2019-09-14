@@ -18,7 +18,7 @@ var friends = [
 	},
 	{
 		name: "Orc",
-		photo: "https://wowwiki.fandom.com/wiki/Orc?file=3D-Orc.png",
+		photo: "https://i.ytimg.com/vi/7ho0pPZyGBw/hqdefault.jpg",
 		scores: [
 			"3",
 			"5",
@@ -35,7 +35,7 @@ var friends = [
 	{
 		name: "Human",
 		photo: "https://gamepedia.cursecdn.com/wowpedia/thumb/6/62/Human_rogue.jpg/300px-Human_rogue.jpg?version=75308409e0e74aec2e35ff3a3b4589de",
-		score: [
+		scores: [
 			"1",
 			"1",
 			"1",
